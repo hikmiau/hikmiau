@@ -53,7 +53,7 @@
 
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 <div align="left">
-  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
