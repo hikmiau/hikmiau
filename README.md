@@ -76,7 +76,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" title="Visual Studio Code" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" title="Visual Studio" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
-  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" title="GitBash" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=centos" title="CentOS" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
