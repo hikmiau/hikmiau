@@ -12,8 +12,8 @@
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb&bg_color=0f172a" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&title_color=a78bfa&text_color=e5e7eb&bg_color=0f172a" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hikmiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb&bg_color=0f172a" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmiau&layout=compact&langs_count=6&hide_border=true&title_color=a78bfa&text_color=e5e7eb&bg_color=0f172a" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=e5e7eb" />
 </div>
