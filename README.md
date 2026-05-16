@@ -73,7 +73,8 @@
 
 **🛠️ Tools & apps**
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" title="Visual Studio Code" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim" title="Neovim" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" title="Visual Studio" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" title="GitBash" />
