@@ -97,7 +97,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/330px-Android_2023_3D_logo_and_wordmark.svg.png" width="120px" title="Android"/>
 </p>
 
-**🐧 Linux distros & Tools i want to explore**
+**🐧 Linux distros & Tools I want to explore**
 <div align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
 <img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
@@ -117,7 +117,7 @@
   <img src="https://img.shields.io/badge/🇺🇸%20English-3A3A3A?style=for-the-badge&logoColor=white" />
 </p>
 
-**Languages i plan on learning**
+**Languages I plan on learning**
 <p align="left">
   <img src="https://img.shields.io/badge/🇰🇷%20Korean-CD2E3A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇯🇵%20Japanese-BC002D?style=for-the-badge&logoColor=white" />
