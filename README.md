@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
   <img src="https://www.autohotkey.com/static/ahk_logo_no_text.svg" width="75px" title="AutoHotkey"/>
@@ -56,7 +57,6 @@
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
@@ -100,20 +100,11 @@
 **🐧 Linux distros & Tools i want to explore**
 <div align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
+<img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=debian" title="Debian" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" title="Fedora" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" title="NixOS" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kde" title="KDE" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" title="Hyprland" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos" title="CachyOS" />
-  <img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/EndeavourOS_Logo.svg/120px-EndeavourOS_Logo.svg.png" width="40px" title="EndeavourOS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zorin_Logomark.svg/120px-Zorin_Logomark.svg.png" width="40px" title="Zorin OS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40px" title="Linux Mint"/>
-  <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="40px" title="Parrot OS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png" width="40px" title="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" width="40px" title="OracleLinux"/>
 </div>
 
 <br/>
@@ -138,7 +129,7 @@
 ## 🔥 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f172a&color=a78bfa&line=7c3aed&point=e5e7eb&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h&bg_color=0f172a&color=a78bfa&line=7c3aed&point=e5e7eb&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -148,7 +139,7 @@
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=hikmiau&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
