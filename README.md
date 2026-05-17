@@ -39,7 +39,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
@@ -58,6 +57,7 @@
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 
 <div align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
