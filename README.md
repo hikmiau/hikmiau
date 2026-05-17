@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
@@ -57,20 +58,19 @@
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=electron" title="Electron" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
-  <img src="https://skillicons.dev/icons?i=webassembly" title="WA" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=golang" title="GO" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=webassembly" title="WA" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
 </div>
 
 <br/>
