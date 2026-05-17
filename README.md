@@ -3,10 +3,11 @@
 
   <img src="https://i.pinimg.com/736x/5c/72/aa/5c72aa35a5fd3774e6112d6089571254.jpg" width="160px" />
 
-  <br/><br/>
+<br/><br/>
 
-  ![](https://img.shields.io/badge/-✨%20learning%20to%20build%20cool%20things-111827?style=flat-square)
-  ![](https://img.shields.io/badge/-java%20%2F%20c%23%20%2F%20powershell-7c3aed?style=flat-square)
+![](https://img.shields.io/badge/-✨%20learning%20to%20build%20cool%20things-111827?style=flat-square)
+![](https://img.shields.io/badge/-java%20%2F%20c%23%20%2F%20powershell-7c3aed?style=flat-square)
+
 </div>
 
 ---
@@ -29,6 +30,7 @@
 ## 💻 Tech stack
 
 **💛 Programming, Framework languages & libraries I'm currently learning**
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
@@ -36,13 +38,14 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
-  <img src="https://www.autohotkey.com/static/ahk_logo_no_text.svg" width="75px" title="AutoHotkey"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
 <br/>
 
 **🌐 Web languages I'm currently learning**
+
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" title="HTML" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=css" title="CSS" />
@@ -52,8 +55,9 @@
 <br/>
 
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
+
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
@@ -72,6 +76,7 @@
 <br/>
 
 **🛠️ Tools & apps**
+
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim" title="Neovim" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
@@ -93,12 +98,14 @@
 <br/>
 
 **🖥️ OS**
+
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png" width="120px" title="Windows10"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/330px-Android_2023_3D_logo_and_wordmark.svg.png" width="120px" title="Android"/>
 </p>
 
 **🐧 Linux distros & Tools I want to explore**
+
 <div align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
 <img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
@@ -113,12 +120,14 @@
 ## 🌍 Languages
 
 **Fluent**
+
 <p align="left">
   <img src="https://img.shields.io/badge/🇧🇷%20Portuguese-009C3B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇺🇸%20English-3A3A3A?style=for-the-badge&logoColor=white" />
 </p>
 
 **Languages I plan on learning**
+
 <p align="left">
   <img src="https://img.shields.io/badge/🇰🇷%20Korean-CD2E3A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇯🇵%20Japanese-BC002D?style=for-the-badge&logoColor=white" />
