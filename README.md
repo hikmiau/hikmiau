@@ -13,8 +13,8 @@
 ---
 
 <div align="center">
-  <img height="170em" src="./profile/stats.svg?v=2" />
-  <img height="170em" src="./profile/top-langs.svg?v=2" />
+  <img height="170em" src="./profile/stats.svg?v=3" />
+  <img height="170em" src="./profile/top-langs.svg?v=3" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=hikmiau&theme=dark&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=e5e7eb" />
 </div>
@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
 <br/>
