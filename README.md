@@ -13,8 +13,8 @@
 ---
 
 <div align="center">
-  <img height="170em" src="./profile/stats.svg?v=4" />
-  <img height="170em" src="./profile/top-langs.svg?v=4" />
+  <img height="170em" src="./profile/stats.svg?v=5" />
+  <img height="170em" src="./profile/top-langs.svg?v=5" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=hikmiau&theme=dark&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=e5e7eb" />
 </div>
