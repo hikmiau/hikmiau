@@ -81,7 +81,7 @@
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vim" title="Vim" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ghostty" title="Ghostty" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Sc-apps-kate-editor.svg" width="40px" title="Kate" />
+  <img src="https://cdn.jsdelivr.net/gh/KDE/breeze-icons@master/icons/apps/48/kate.svg" width="40px" title="Kate" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
   <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="40px" title="JetBrains Rider" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
