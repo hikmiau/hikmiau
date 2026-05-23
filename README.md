@@ -101,7 +101,6 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/330px-Android_2023_3D_logo_and_wordmark.svg.png" width="120px" title="Android"/>
 </p>
 
 **🐧 Linux distros & Tools I want to explore**
