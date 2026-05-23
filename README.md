@@ -79,15 +79,14 @@
 **🛠️ Tools & apps**
 
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim" title="Neovim" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vim" title="Vim" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ghostty" title="Ghostty" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Sc-apps-kate-editor.svg" width="40px" title="Kate" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" title="Visual Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JetBrains_Rider_Icon.svg" width="40px" title="JetBrains Rider" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" title="GitBash" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=centos" title="CentOS" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=notepadpp" title="Notepad++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" title="NPM" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ffmpeg" title="ffmpeg" />
