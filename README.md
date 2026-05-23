@@ -13,8 +13,8 @@
 ---
 
 <div align="center">
-  <img height="170em" src="./profile/stats.svg?v=5" />
-  <img height="170em" src="./profile/top-langs.svg?v=5" />
+  <img height="170em" src="./profile/stats.svg?v=6" />
+  <img height="170em" src="./profile/top-langs.svg?v=6" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=hikmiau&theme=dark&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=e5e7eb" />
 </div>
@@ -37,9 +37,10 @@
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" />
+  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
 <br/>
@@ -100,14 +101,13 @@
 **🖥️ OS**
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png" width="120px" title="Windows10"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/330px-Android_2023_3D_logo_and_wordmark.svg.png" width="120px" title="Android"/>
 </p>
 
 **🐧 Linux distros & Tools I want to explore**
 
 <div align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
 <img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=debian" title="Debian" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu" />
