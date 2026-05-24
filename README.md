@@ -79,7 +79,7 @@
 **🛠️ Tools & apps**
 
 <div align="left">
-  <img src="https://dwm.suckless.org/dwm.svg" title="dwm" alt="dwm" width="45" height="45" />
+  <img src="https://cdn.simpleicons.org/dwm/FFFFFF" title="dwm" alt="dwm" width="45" height="45" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vim" title="Vim" />
   <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/KDE/breeze-icons@master/icons/apps/48/kate.svg" width="40px" title="Kate" />
