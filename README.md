@@ -6,7 +6,7 @@
 <br/><br/>
 
 ![](https://img.shields.io/badge/-✨%20learning%20to%20build%20cool%20things-111827?style=flat-square)
-![](https://img.shields.io/badge/-java%20%2F%20c%23%20%2F%20powershell-7c3aed?style=flat-square)
+![](https://img.shields.io/badge/-java%20%2F%20c%23%20%2F%20shell-7c3aed?style=flat-square)
 
 </div>
 
