@@ -38,8 +38,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" />
-  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
+  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
@@ -101,17 +100,7 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
-</p>
-
-**🐧 Linux distros & Tools I want to explore**
-
-<div align="left">
-<img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=debian" title="Debian" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" title="Fedora" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" title="NixOS" />
-</div>
+</p>
 
 <br/>
 
