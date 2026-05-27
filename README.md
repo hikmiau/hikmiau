@@ -38,7 +38,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" />
-  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
+  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
@@ -91,8 +92,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ffmpeg" title="ffmpeg" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" title="Insomnia" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" title="Wireshark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" title="Discord" />
-</div>
 
 <br/>
 
@@ -100,7 +99,8 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
-</p>
+</p>
+
 
 <br/>
 
