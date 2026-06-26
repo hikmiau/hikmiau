@@ -116,9 +116,8 @@
 **Languages I plan on learning**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🇰🇷%20Korean-CD2E3A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🇯🇵%20Japanese-BC002D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇨🇳%20Mandarin-DE2910?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇰🇷%20Korean-CD2E3A?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
