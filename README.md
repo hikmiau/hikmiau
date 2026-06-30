@@ -6,7 +6,7 @@
 <br/><br/>
 
 ![](https://img.shields.io/badge/-✨%20learning%20to%20build%20cool%20things-111827?style=flat-square)
-![](https://img.shields.io/badge/-java%20%2F%20c%23%20%2F%20shell-7c3aed?style=flat-square)
+![](https://img.shields.io/badge/-c%23%20%2F%20java%23%20%2F%20shell-7c3aed?style=flat-square)
 
 </div>
 
@@ -76,7 +76,7 @@
 <div align="left">
 <img src="https://raw.githubusercontent.com/i3/i3/next/logo.svg" width="45" height="45" alt="i3" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=emacs" title="Emacs"/>
-  <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="40px" title="JetBrains Rider" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rider" title="Rider" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
   <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="45" height="45" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
