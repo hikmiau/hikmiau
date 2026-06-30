@@ -74,7 +74,6 @@
 **🛠️ Tools & apps**
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/i3/i3/next/logo.svg" width="45" height="45" alt="i3" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=emacs" title="Emacs"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=rider" title="Rider" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
