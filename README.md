@@ -87,7 +87,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vim" title="Vim"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=rider" title="Rider" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/DBeaver-38829F?style=for-the-badge&logo=dbeaver&logoColor=white" title="DBeaver" />
+  <img src="https://img.shields.io/badge/-%20-1a1a1a?style=flat-square&logo=dbeaver&logoColor=white&logoWidth=20" height="48" width="48" alt="DBeaver" />
   <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="45" height="45" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
