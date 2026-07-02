@@ -33,12 +33,15 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+
   <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" />
-  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
+  <img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" width="40px" title="Fish Shell" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lua" title="Lua" />
 </div>
 
@@ -47,9 +50,11 @@
 **🌐 Web languages I'm currently learning**
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML" />
+
 </div>
 
 <br/>
@@ -63,9 +68,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+
+
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
+
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
 </div>
 
@@ -75,9 +84,11 @@
 
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=emacs" title="Emacs"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vim" title="Vim"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=rider" title="Rider" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
-  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="45" height="45" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" title="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/DBeaver-38829F?style=for-the-badge&logo=dbeaver&logoColor=white" title="DBeaver" />
+  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="45" height="45" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
