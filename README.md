@@ -14,7 +14,7 @@
   <img height="170" src="./profile/stats.svg?v=7" alt="GitHub Stats" />
   <img height="170" src="./profile/top-langs.svg?v=7" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats-hikmiaus-projects.vercel.app?user=hikmiau&theme=dark&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=e5e7eb" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-hikmiaus-projects.vercel.app?user=hikmiau&theme=dark&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=e5e7eb&v=5" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
