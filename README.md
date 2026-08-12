@@ -48,7 +48,8 @@
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,electron,py,nodejs,c,cpp,php,ruby,assembly,kotlin" alt="Planned Tech" />
+  <img src="https://skillicons.dev/icons?i=rust,electron,py,nodejs,c,cpp,php,ruby,kotlin" alt="Planned Tech" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
 </p>
 
 <br/>
@@ -56,9 +57,11 @@
 **🛠️ Tools & apps**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=emacs,vim,idea,git,figma,gimp,npm,insomnia" alt="Tools" />
-  <img src="https://img.shields.io/badge/-%20-1a1a1a?style=flat-square&logo=dbeaver&logoColor=white&logoWidth=20" height="48" alt="DBeaver" />
-  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" alt="Alacritty" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=emacs,vim,idea,git,figma,npm" alt="Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" title="Insomnia" />
+  <img src="https://img.shields.io/badge/-%20-1a1a1a?style=flat-square&logo=dbeaver&logoColor=white" height="48" alt="DBeaver" />
+  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" width="48" height="48" />
 </p>
 
 <br/>
