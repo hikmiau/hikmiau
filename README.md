@@ -48,8 +48,9 @@
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,electron,py,nodejs,c,cpp,php,ruby,kotlin" alt="Planned Tech" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp" alt="Rust and C++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=c,electron,py,nodejs,php,ruby,kotlin" alt="Planned Tech" />
 </p>
 
 <br/>
@@ -60,7 +61,6 @@
   <img src="https://skillicons.dev/icons?i=emacs,vim,idea,git,figma,npm" alt="Tools" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" title="Insomnia" />
-  <img src="https://img.shields.io/badge/-%20-1a1a1a?style=flat-square&logo=dbeaver&logoColor=white" height="48" alt="DBeaver" />
   <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" width="48" height="48" />
 </p>
 
