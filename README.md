@@ -29,8 +29,9 @@
 **💛 Programming, Framework languages & libraries I'm currently learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,react,mysql,bash,lua" alt="Current Tech" />
-  <img src="https://img.shields.io/badge/Fish_Shell-4B5563?style=for-the-badge&logo=fishshell&logoColor=white" alt="Fish Shell" />
+  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,react,mysql,bash" alt="Current Tech" />
+  <img src="https://cdn.simpleicons.org/fishshell/4B5563" width="48" height="48" title="Fish Shell" alt="Fish Shell" style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
 </p>
 
 <br/>
