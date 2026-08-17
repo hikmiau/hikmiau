@@ -60,7 +60,6 @@
   <img src="https://skillicons.dev/icons?i=emacs,vim,rider,idea,git,figma,npm" alt="Tools" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" title="Insomnia" />
-  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" title="Alacritty" width="48" height="48" />
 </p>
 
 <br/>
