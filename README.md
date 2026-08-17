@@ -30,7 +30,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,java,dotnet,react,mysql,bash,lua" alt="Current Tech" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fish/fish-original.svg" width="48" height="48" title="Fish Shell" alt="Fish Shell" style="vertical-align: top;" />
+  <img src="https://img.shields.io/badge/Fish_Shell-4B5563?style=for-the-badge&logo=fishshell&logoColor=white" alt="Fish Shell" />
 </p>
 
 <br/>
