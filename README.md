@@ -21,6 +21,7 @@
 ## 🧃 About me
 
 focused on the .NET / C# ecosystem and shell scripting
+
 i use arch btw
 
 <br/>
