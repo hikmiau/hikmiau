@@ -57,7 +57,7 @@
 **🛠️ Tools & apps**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=emacs,vim,rider,idea,git,figma,npm" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vim,git,figma,npm" alt="Tools" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" title="Insomnia" />
 </p>
