@@ -20,7 +20,8 @@
 
 ## 🧃 About me
 
-- 🔥 i do random stuff
+- focused on the .NET / C# ecosystem and shell scripting
+- I use arch btw
 
 <br/>
 
