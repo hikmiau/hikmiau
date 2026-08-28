@@ -5,7 +5,7 @@
   <br/><br/>
 
   <img src="https://img.shields.io/badge/-✨%20learning%20to%20build%20cool%20things-111827?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/-c%23%20%2F%20java%20%2F%20shell-7c3aed?style=flat-square" alt="Tech" />
+  <img src="https://img.shields.io/badge/-c%23%20%2F%20%2Enet%20%2F%20shell-7c3aed?style=flat-square" alt="Tech" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 **💛 Programming, Framework languages & libraries I'm currently learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,react,mysql,bash" alt="Current Tech" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,mysql,bash" alt="Current Tech" />
   <img src="https://cdn.simpleicons.org/fishshell/4B5563" width="48" height="48" title="Fish Shell" alt="Fish Shell" style="vertical-align: top;" />
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
 </p>
@@ -47,9 +47,9 @@
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,cpp" alt="Rust and C++" />
+  <img src="https://skillicons.dev/icons?i=rust,c" alt="Rust and C++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
-  <img src="https://skillicons.dev/icons?i=c,electron,py,nodejs,php,ruby,kotlin" alt="Planned Tech" />
+  <img src="https://skillicons.dev/icons?i=kotlin,electron,py,nodejs,php,ruby" alt="Planned Tech" />
 </p>
 
 <br/>
