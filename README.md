@@ -21,7 +21,7 @@
 ## 🧃 About me
 
 - focused on the .NET / C# ecosystem and shell scripting
-- I use arch btw
+- i use arch btw
 
 <br/>
 
