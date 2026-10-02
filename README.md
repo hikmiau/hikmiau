@@ -32,7 +32,7 @@ i use arch btw
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,mysql,bash" alt="Current Tech" />
-  <img src="https://cdn.simpleicons.org/fishshell/4B5563" width="48" height="48" title="Fish Shell" alt="Fish Shell" style="vertical-align: top;" />
+  style="vertical-align: top;" />
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
 </p>
 
@@ -66,10 +66,12 @@ i use arch btw
 
 <br/>
 
-**🖥️ OS**
+## 🍚 Rice
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux" alt="Arch Linux" />
+  <img src="https://skillicons.dev/icons?i=arch,bash" alt="Arch Linux and Bash" />
+  <img src="https://img.shields.io/badge/st-Terminal-111827?style=flat-square&logo=gnome-terminal&logoColor=white" alt="st Terminal" />
+  <img src="https://img.shields.io/badge/dwm-Window%20Manager-111827?style=flat-square&logoColor=white" alt="dwm Window Manager" />
 </p>
 
 <br/>
