@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="180" viewBox="0 0 506 180">
+  <rect width="100%" height="100%" fill="#0b1217"/>
+
+  <style>
+    text {
+      font-family: "Terminus", monospace;
+      white-space: pre;
+      font-size: 17px;
+      fill: #9dc1db;
+    }
+  </style>
+
+  <text xml:space="preserve" x="0" y="19">  ╭────────────────────────────────────────────╮</text>
+  <text xml:space="preserve" x="0" y="39">  │    ___                                     │</text>
+  <text xml:space="preserve" x="0" y="59">  │   (.. |    os      arch                    │</text>
+  <text xml:space="preserve" x="0" y="79">  │   (&lt;&gt; |    init    systemd                 │</text>
+  <text xml:space="preserve" x="0" y="99">  │  / __  \   wm      dwm (X11)               │</text>
+  <text xml:space="preserve" x="0" y="119">  │ ( /  \ /|  shell   bash                    │</text>
+  <text xml:space="preserve" x="0" y="139">  │_/\ __)/_)  term    st                      │</text>
+  <text xml:space="preserve" x="0" y="159">  │\/_____\/                                   │</text>
+  <text xml:space="preserve" x="0" y="179">  ╰────────────────────────────────────────────╯</text>
+</svg>
