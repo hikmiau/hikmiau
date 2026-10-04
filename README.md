@@ -31,8 +31,7 @@ i use arch btw
 **💛 Programming, Framework languages & libraries I'm currently learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,mysql,bash" alt="Current Tech" />
-  style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,angular,react,mysql,postgresql" alt="Current Tech" />
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
 </p>
 
@@ -68,11 +67,9 @@ i use arch btw
 
 ## 🍚 Rice
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,bash" alt="Arch Linux and Bash" />
-  <img src="https://img.shields.io/badge/st-Terminal-111827?style=flat-square&logo=gnome-terminal&logoColor=white" alt="st Terminal" />
-  <img src="https://img.shields.io/badge/dwm-Window%20Manager-111827?style=flat-square&logoColor=white" alt="dwm Window Manager" />
-</p>
+<div align="left">
+  <img src="./fetch.svg" alt="Fetch" />
+</div>
 
 <br/>
 
