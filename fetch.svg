@@ -49,4 +49,7 @@
 
   <text class="label" x="220" y="106">term</text>
   <text x="280" y="106">st</text>
+
+  <text class="label" x="220" y="106">editor</text>
+  <text x="280" y="106">vim</text>
 </svg>
