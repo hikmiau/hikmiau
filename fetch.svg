@@ -36,20 +36,20 @@
 
   <!-- Fetch -->
   <text class="label" x="220" y="42">os</text>
-  <text x="280" y="42">arch</text>
+  <text x="300" y="42">arch</text>
 
-  <text class="label" x="220" y="58">init</text>
-  <text x="280" y="58">systemd</text>
+  <text class="label" x="220" y="67">init</text>
+  <text x="300" y="67">systemd</text>
 
-  <text class="label" x="220" y="74">wm</text>
-  <text x="280" y="74">dwm (X11)</text>
+  <text class="label" x="220" y="92">wm</text>
+  <text x="300" y="92">dwm (X11)</text>
 
-  <text class="label" x="220" y="90">shell</text>
-  <text x="280" y="90">bash</text>
+  <text class="label" x="220" y="117">shell</text>
+  <text x="300" y="117">bash</text>
 
-  <text class="label" x="220" y="106">term</text>
-  <text x="280" y="106">st</text>
+  <text class="label" x="220" y="142">term</text>
+  <text x="300" y="142">st</text>
 
-  <text class="label" x="220" y="106">editor</text>
-  <text x="280" y="106">vim</text>
+  <text class="label" x="220" y="167">editor</text>
+  <text x="300" y="167">vim</text>
 </svg>
