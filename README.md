@@ -3,9 +3,7 @@
   <img src="https://i.pinimg.com/736x/5c/72/aa/5c72aa35a5fd3774e6112d6089571254.jpg" width="160px" />
 
   <br/><br/>
-
-  <img src="https://img.shields.io/badge/-✨%20learning%20to%20build%20cool%20things-111827?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/-c%23%20%2F%20%2Enet%20%2F%20shell-7c3aed?style=flat-square" alt="Tech" />
+ src="https://img.shields.io/badge/-c%23%20%2F%20%2Enet%20%2F%20shell-7c3aed?style=flat-square" alt="Tech" />
 </div>
 
 ---
