@@ -48,7 +48,6 @@ i use arch btw
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,c" alt="Rust and C" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
   <img src="https://skillicons.dev/icons?i=kotlin,electron,py,nodejs,php,ruby" alt="Planned Tech" />
 </p>
 
@@ -58,8 +57,6 @@ i use arch btw
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vim,git,docker,figma,npm" alt="Tools" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
 <br/>
