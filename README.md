@@ -47,8 +47,7 @@ i use arch btw
 **📚 Programming, Web/Framework languages & libraries I plan on learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c" alt="Rust and C++" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=rust,c,assembly" alt="Rust, C and Assembly" />
   <img src="https://skillicons.dev/icons?i=kotlin,electron,py,nodejs,php,ruby" alt="Planned Tech" />
 </p>
 
@@ -57,9 +56,7 @@ i use arch btw
 **🛠️ Tools & apps**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vim,git,docker,figma,npm" alt="Tools" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" title="Insomnia" />
+  <img src="https://skillicons.dev/icons?i=vim,git,docker,figma,npm,gimp,insomnia" alt="Tools" />
 </p>
 
 <br/>
